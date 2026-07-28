@@ -1,0 +1,8 @@
+{
+  "name": "Remix OWN WORLD",
+  "description": "Modern secure private cloud storage vault with secret code access, file management, encrypted vault storage, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
